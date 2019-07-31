@@ -16,4 +16,4 @@ Ramos, I., González González, C., Urrutia, A. L., Mora Van Cauwelaert, E., & B
 
 *Licencia*
 
-Código bajo licencia [MIT] (https://opensource.org/licenses/MIT) y otro tipo de contenido en Jupyter Notebooks bajo licencia [CC-BY] (https://creativecommons.org/licenses/by/4.0/).
+Código bajo licencia [MIT](https://opensource.org/licenses/MIT) y otro tipo de contenido en Jupyter Notebooks bajo licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/).
